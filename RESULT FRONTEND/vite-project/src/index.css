@@ -1,0 +1,21 @@
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+img {
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: white;
+  margin: 10px 0;
+}
+
+.tiro1 {
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+}
+
+
